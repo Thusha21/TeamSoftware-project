@@ -1,5 +1,5 @@
 # TeamSoftware-project
- TEAM MEMBERS
+ Team Members
  1.Nivethan
  2.Thushanth
  3.Kasthury
